@@ -7,7 +7,8 @@ While working on this project, I had difficulty using XLOOKUP and setting up the
 # Data Understanding
 The data used in this project were provided by ANALYSTLAB AFRICA.
 # Screenshots of visualizations
-<img width="1325" height="465" alt="image" src="https://github.com/user-attachments/assets/548d3c73-9104-4ad3-b5c9-59b4913eaebb" />
+<img width="739" height="818" alt="Capture d’écran du 2026-10-21 14-54-41" src="https://github.com/user-attachments/assets/2fbefe86-414c-4e7e-82aa-d0f5ff192cb5" />
+
 # Technologie
 Excel <br/>
 
